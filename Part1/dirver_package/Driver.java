@@ -1,7 +1,4 @@
-//-------------------------------
-//Assignment #2
-//Question: Part - 1;
-//Written by: Jinchen Hu ID#40080398
+
 
 package dirver_package;
 
