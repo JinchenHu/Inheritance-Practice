@@ -1,9 +1,4 @@
-//-------------------------------
-//Assignment #2
-//Question: Part - 1; the class 
-//defines the attributes of public
-//transportation
-//Written by: Jinchen Hu ID#40080398
+
 
 package first_package;
 /**
