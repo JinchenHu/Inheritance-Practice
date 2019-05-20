@@ -10,14 +10,7 @@ import third_package.Ferry;
 import fourth_package.AirCraft;
 import fourth_package.AirCraft.ClassType;
 import fourth_package.AirCraft.maintenanceType;
-/**
-* 
-* <p>Jinchen Hu ID#40080398</p>
-* <p>COMP 249</p>
-* <p>Assignment #2</p>
-* <p>Due 11:59 PM - Wednesday, February 20, 2019</p>
-*
-*/
+
 public class Driver {
 	public static void main(String[] args) {
 		PublicTransportation pub1 = new PublicTransportation(3.5, 18);
