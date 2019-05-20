@@ -1,14 +1,7 @@
 
 
 package first_package;
-/**
-* 
-* <p>Jinchen Hu ID#40080398</p>
-* <p>COMP 249</p>
-* <p>Assignment #2</p>
-* <p>Due 11:59 PM - Wednesday, February 20, 2019</p>
-*
-*/
+
 public class PublicTransportation {
 	// declare a double instance variable
 	public double ticketPrice;
