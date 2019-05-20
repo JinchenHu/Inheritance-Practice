@@ -3,14 +3,7 @@
 package second_package;
 
 import first_package.PublicTransportation;
-/**
-* 
-* <p>Jinchen Hu ID#40080398</p>
-* <p>COMP 249</p>
-* <p>Assignment #2</p>
-* <p>Due 11:59 PM - Wednesday, February 20, 2019</p>
-*
-*/
+
 public class CityBus extends PublicTransportation {
 	protected long routeNum;
 	protected int beginOperationYear;
