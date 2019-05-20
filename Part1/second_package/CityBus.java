@@ -1,8 +1,4 @@
-//-------------------------------
-//Assignment #2
-//Question: Part - 1; the class 
-//defines the attributes of city bus
-//Written by: Jinchen Hu ID#40080398
+
 
 package second_package;
 
